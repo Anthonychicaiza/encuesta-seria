@@ -1,0 +1,21 @@
+ body {
+           background:pink;
+	background-repeat:no-repeat;
+background-size:100% 100%;
+    width:600px;
+    height:500px;
+    border:1px #000 solid;
+    margin:20px auto;
+    padding:15px;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+        }
+	footer{
+	background:black;
+	color: white;
+	text-align:center;
+	height:50px;
+	width:100;
+	line-height:50px;
+}
